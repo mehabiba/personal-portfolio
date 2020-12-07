@@ -111,7 +111,7 @@ span,a{
     color: #1957f3;
 }
 .banner{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../beautiful-sunset-art-1366x768.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../img/beautiful-sunset-art-1366x768.jpg);
     background-attachment: fixed;
     height: 100vh;
     width: 100%;
@@ -168,7 +168,7 @@ span,a{
 
 /*** hire me section css ***/
 .hire_me{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../beautiful-wallpaper-1-beautiful-pictures-38538866-2560-1600.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/beautiful-wallpaper-1-beautiful-pictures-38538866-2560-1600.jpg);
     background-attachment: fixed;
 }
 .hire_me h2{
@@ -232,7 +232,7 @@ span,a{
 }
 
 .testimonial{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../b85341ee12c7ae288b0a0ac0addddc06.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/b85341ee12c7ae288b0a0ac0addddc06.jpg);
     background-attachment: fixed;
 }
 
